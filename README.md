@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Nicole 👋</h1>
 
-<!--
-**NicoleTrainer/NicoleTrainer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 4th Year Computer Science Student • 📍 Windsor, ON • ✨ She/Her  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 About Me
+
+I'm a computer science student passionate about developing software and mobile applications.  
+I specialize in **Java**, **HTML** and **Android development**,
+
+I'm currently:
+- 📲 Working on Android projects using SQLite, RecyclerViews, and custom UI
+- 💡 Exploring code efficiency and clean architecture principles
+
+---
+
+### 🔧 Tech I Use
+
+- 💻 Languages: Java, HTML/CSS, JavaScript, Python, C
+- ⚙️ Tools: Android Studio, Git, SQLite
+- 🖌 Interests: UI/UX, Mobile App Design, Full-Stack Development
+
+---
+
+### 📌 Featured Projects
+
+- 📘 [Notes-Plus](https://github.com/NicoleTrainer/Notes-Plus): Android notes app with a clean, customizable interface
+- 🎓 [COMP-4200 Group Project](https://github.com/nikerdz/COMP-4200-Group-Project): Study Buddy Organizer — helps students manage academic tasks
+
+---
+
+### 📫 Contact
+
+- 💌 Email: Trainen@uwindsor.ca
+- 💼 LinkedIn: https://www.linkedin.com/in/nicole-trainer/ 
+
+---
