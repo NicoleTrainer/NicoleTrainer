@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I'm Nicole 👋</h1>
-
 <p align="center">
   🎓 4th Year Computer Science Student • 📍 Windsor, ON • ✨ She/Her  
 </p>
