@@ -1,3 +1,5 @@
+<h1 align="center">Nicole Trainer</h1>
+
 <p align="center">
   🎓 4th Year Computer Science Student • 📍 Windsor, ON • ✨ She/Her  
 </p>
