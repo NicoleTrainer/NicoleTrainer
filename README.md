@@ -1,6 +1,6 @@
 # Nicole Trainer
 
-Computer Science graduate from the University of Windsor with a focus on full-stack development. I enjoy building practical applications and am always looking to expand my skills.
+Computer Science graduate from the University of Windsor with hands-on experience building applications in Java and Python. I'm currently expanding my skills in TypeScript and React. I enjoy building practical applications and am always looking to expand my skills.
 
 ## Skills
 
