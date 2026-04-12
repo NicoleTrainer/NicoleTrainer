@@ -12,6 +12,8 @@ Computer Science graduate from the University of Windsor with hands-on experienc
 
 ## Projects
 
+**[Inventory Manager](https://github.com/NicoleTrainer/InventoryManager)** — A C# console application for managing an inventory of items using a local SQLite database.
+
 **[Notes Plus](https://github.com/NicoleTrainer/Notes-Plus)** — Android notes app built in Java with SQLite for persistent storage. Full CRUD functionality with sorting.
 
 **[File Sorter](https://github.com/NicoleTrainer/File-Sorter)** — Python script that automatically categorizes and moves files into folders by type.
