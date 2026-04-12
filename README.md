@@ -4,9 +4,9 @@ Computer Science graduate from the University of Windsor with a focus on full-st
 
 ## Skills
 
-**Languages:** Java, C#, Python, C, HTML/CSS, JavaScript
-**Tools:** Android Studio, Git/GitHub, Visual Studio Code, SQLite,
-**OS:** Windows, UNIX
+**Languages:** Java, C#, Python, C, HTML/CSS, JavaScript.
+**Tools:** Android Studio, Git/GitHub, Visual Studio Code, SQLite.
+**OS:** Windows, UNIX.
 
 ## Projects
 
