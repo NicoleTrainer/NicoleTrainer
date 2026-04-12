@@ -1,47 +1,23 @@
-<h1 align="center">Hi, I'm Nicole 👋</h1>
+# Nicole Trainer
 
-<p align="center">
-🎓 Computer Science graduate from the <b>University of Windsor</b><br>
-💻 Passionate about building applications, programs, and useful tools<br>
-🌱 Always learning and expanding my knowledge<br>
-</p>
+Computer Science graduate from the University of Windsor with a focus on full-stack development. I enjoy building practical applications and am always looking to expand my skills.
 
----
+## Skills
 
-<h2>🚀 About Me</h2>
+**Languages:** Java, C#, Python, C, HTML/CSS, JavaScript
+**Self-studying:** TypeScript, React
+**Tools:** Android Studio, Git/GitHub, Visual Studio Code, SQLite, Azure DevOps (familiar)
+**OS:** Windows, UNIX
 
-<ul>
-  <li>📚 Skilled in <b>Java, Python, C, Assembly, JavaScript, HTML/CSS</b></li>
-  <li>🛠️ Experienced with <b>Android Studio, Visual Studio</b></li>
-  <li>🌐 Interests: <b>software development, game design</b></li>
-  <li>✨ I enjoy turning ideas into real projects</li>
-</ul>
+## Projects
 
----
+**[Notes Plus](https://github.com/NicoleTrainer/Notes-Plus)** — Android notes app built in Java with SQLite for persistent storage. Full CRUD functionality with sorting.
 
-<h2>📝 Main Projects</h2>
+**[File Sorter](https://github.com/NicoleTrainer/File-Sorter)** — Python script that automatically categorizes and moves files into folders by type.
 
-<ul>
-  <li>📱 <b>Notes App</b> – Android app for creating and sorting notes</li>
-  <li>🎮 <b>2D Adventure Game</b> – Java-based game with chunk/item generation, inventory management, and world exploration</li>
-  <li>🗂️ <b>File Organizer Script</b> – Python tool that automatically sorts files into folders by type</li>
-</ul>
+**[Wonderful World of Adventure](https://github.com/pbinspanish/comp-2800-project)** — 2D Java game built with a team of four. Includes inventory management, block placement mechanics, and procedural item generation.
 
----
+## Contact
 
-<h2>🛠️ Tech Stack</h2>
-
-<p>
-<b>Languages:</b> Java, Python, C, JavaScript, HTML/CSS <br>
-<b>Frameworks & Tools:</b> Android Studio, Git, Visual Studio<br>
-<b>Other Skills:</b> Database design, networking fundamentals, problem-solving
-</p>
-
----
-
-<h2>📬 Get in Touch</h2>
-
-<p>
-💼 <a href="https://www.linkedin.com/](https://www.linkedin.com/in/nicole-trainer" target="_blank">LinkedIn</a><br>
-📧 Email: <i>Trainern@uwindsor.ca</i>
-</p>
+- Email: trainern@uwindsor.ca
+- LinkedIn: [linkedin.com/in/nicole-trainer](https://www.linkedin.com/in/nicole-trainer)
