@@ -22,5 +22,5 @@ Computer Science graduate from the University of Windsor with hands-on experienc
 
 ## Contact
 
-- Email: trainern@uwindsor.ca
+- Email: Nicole-Trainer@outlook.com
 - LinkedIn: [linkedin.com/in/nicole-trainer](https://www.linkedin.com/in/nicole-trainer)
