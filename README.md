@@ -1,26 +1,15 @@
 # Nicole Trainer
-
 Computer Science graduate from the University of Windsor with hands-on experience building applications in Java and Python. I'm currently expanding my skills in TypeScript and React. I enjoy building practical applications and am always looking to expand my skills.
-
 ## Skills
-
 **Languages:** Java, C#, Python, C, HTML/CSS, JavaScript
-
 **Tools:** Android Studio, Git/GitHub, Visual Studio Code, SQLite
-
 **OS:** Windows, UNIX.
-
 ## Projects
-
 **[Inventory Manager](https://github.com/NicoleTrainer/Inventory-Manager)** — A C# console application for managing an inventory of items using a local SQLite database.
-
 **[Notes Plus](https://github.com/NicoleTrainer/Notes-Plus)** — Android notes app built in Java with SQLite for persistent storage. Full CRUD functionality with sorting.
-
 **[File Sorter](https://github.com/NicoleTrainer/File-Sorter)** — Python script that automatically categorizes and moves files into folders by type.
-
+**[Weather App](https://github.com/NicoleTrainer/Weather-App)** — Browser-based weather app that fetches current conditions for any searched city, built with HTML, CSS, and JavaScript.
 **[Wonderful World of Adventure](https://github.com/pbinspanish/comp-2800-project)** — 2D Java game built with a team of four. Includes inventory management, block placement mechanics, and procedural item generation.
-
 ## Contact
-
 - Email: Nicole-Trainer@outlook.com
 - LinkedIn: [linkedin.com/in/nicole-trainer](https://www.linkedin.com/in/nicole-trainer)
